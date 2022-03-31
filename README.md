@@ -1,0 +1,1 @@
+This is a Django study repossitory using Docker
